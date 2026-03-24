@@ -10,6 +10,8 @@ All commands related to Network configuration which includes how to switch to pr
 and normal mode and how to configure router interface and how to save this configuration to
 <BR>
 flash memory or permanent memory.
+<img width="844" height="353" alt="Screenshot 2026-03-14 134215" src="https://github.com/user-attachments/assets/2cc399a9-8b97-488b-a03f-810ff8cd3863" />
+
 <BR>
 This commands includes
 <BR>
